@@ -13,7 +13,7 @@ Este projeto é uma ferramenta de automação para testes e navegação no porta
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-repositorio>
+    git clone [<url-do-repositorio>](https://github.com/jorgelzsilva/tester)
     cd tester
     ```
 
